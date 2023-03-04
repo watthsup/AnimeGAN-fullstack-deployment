@@ -34,13 +34,6 @@ To install and run the application, please follow the steps below:
 
 After following the installation steps above, you can use the application to convert your face to anime style. Access the front-end by navigating to `http://localhost:8501` in your web browser. Upload an image of your face, and the application will convert it to anime style using the AnimeGAN deep learning model.
 
-## Contributing
-
-Contributions to Anime Face Converter are welcome! Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute.
-
-## License
-
-This project is licensed under the MIT License. Please refer to the `LICENSE` file for more information.
 
 ## Special Thanks
 Thanks to https://github.com/TachibanaYoshino/AnimeGANv2 for the AnimeGAN V1 & V2 pretrained weight
