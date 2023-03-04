@@ -1,6 +1,9 @@
 # Anime Face Converter
 
-Anime Face Converter is a full-stack application that converts people's faces to an anime style using AnimeGAN. The application consists of three components: a front-end developed using Streamlit to serve the client, a back-end API developed using FastAPI, and an inference server that runs the AnimeGAN deep learning model using the Triton Docker container to enhance concurrent usage.
+Anime Face Converter is a full-stack application that converts people's faces to an anime style using AnimeGAN. The application consists of three components: 
+1. Front-end: A Streamlit-based user interface for the client to interact with the application.
+2. Back-end: A FastAPI-based API app that processes the user's request and sends it to the inference server.
+3. Inference server: A Triton Docker container that serves the AnimeGAN deep learning model and enhances concurrent usage.
 
 The purpose of this application is to provide entertainment and make it easier to convert faces to anime style. It is also intended to be used as a portfolio project.
 
