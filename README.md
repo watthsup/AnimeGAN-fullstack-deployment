@@ -42,4 +42,4 @@ After following the installation steps above, you can use the application to con
 Thanks to https://github.com/TachibanaYoshino/AnimeGANv2 for the AnimeGAN V1 & V2 pretrained weight
 
 ## Preview
-![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/121663706/222923746-01673fe3-1994-4adc-bd31-1d85de411669.gif)
+![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/121663706/222923878-fec5bf77-37f3-4146-9218-56cdf1cdc2a0.gif)
